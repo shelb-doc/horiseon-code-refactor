@@ -30,6 +30,10 @@ To view this site live [click here.](https://shelb-doc.github.io/horiseon-code-r
 
 To view this locally, clone the repository, and open [index.html](index.html) with your browser of choice.
 
+<p align="center">
+  <img alt="Horiseon Site in Action" src="./assets/screenshots/basesite.png">
+</p>
+
 ## Credits
 
 Thank you to my cat Mimikyu for being my Rubber Ducky.
