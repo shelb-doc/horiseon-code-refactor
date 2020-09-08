@@ -7,13 +7,20 @@ Description
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+To view locally:
+1. Clone the repository.
+2. Open [index.html](index.html).
 
+To implement changes:
+1. Clone or fork the repository.
+2. Open the folder with your prefered IDE.
+3. Implement your changes.
 
 ## Usage 
 
-Provide instructions and examples for use. Include screenshots as needed. 
+To view this site live [click here.](https://shelb-doc.github.io/horiseon-code-refactor/)
 
+To view this locally, clone the repository, and open [index.html](index.html) with your browser of choice.
 
 ## Credits
 
