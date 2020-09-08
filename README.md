@@ -2,8 +2,16 @@
 
 ## Description 
 
-Description
+This is a website created for Horiseon Social Solution Services, Inc.
+We have implemented the following features:
+* Semantic HTML elements.
+* Accessible alt attributes on all images.
+* Updated the Title tag.
+* Updated the structure of the HTML elements to be more search engine friendly.
 
+What We would like to implement in the future is:
+* Javascript to make the site more dynamic.
+* Create more pages to the site.
 
 ## Installation
 
