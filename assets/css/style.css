@@ -39,7 +39,7 @@ header ul li {
     margin-left: 25px;
 }
 
-a {
+header ul li a {
     color: #ffffff;
     text-decoration: none;
 }
