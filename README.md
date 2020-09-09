@@ -39,6 +39,12 @@ To view this locally, clone the repository, and open [index.html](index.html) wi
 Thank you to my cat Mimikyu for being my Rubber Ducky.
 Thank you to Michell Brito, my tutor, for helping me understand this assignment.
 
+Thank you to my Beta Testers
+* Sean Fine
+* Jennifer Etheredge
+* James Lee Shupe
+* Leonardo De Oliveira Dias
+
 
 ## License
 
