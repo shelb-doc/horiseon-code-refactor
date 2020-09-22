@@ -21,7 +21,7 @@ To view locally:
 
 To implement changes:
 1. Clone or fork the repository.
-2. Open the folder with your prefered IDE.
+2. Open the folder with your preferred IDE.
 3. Implement your changes.
 
 ## Usage 
